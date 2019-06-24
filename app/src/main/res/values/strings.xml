@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name= "question_text">Placeholder for first question...</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+
+    <string name="question_1">Little Mamas Bakery is where Chandler and Rachel got the cheesecake from?</string>
+    <string name="question_2">Joey has nine sisters</string>
+    <string name="question_3">Ross divorced 4 times</string>
+    <string name="question_4">Phoebe carried 3 babies for her brother</string>
+    <string name="question_5">Chandler is forced to work in Tahoma after falling asleep in a meeting </string>
+</resources>
